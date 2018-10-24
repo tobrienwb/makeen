@@ -1,8 +1,5 @@
 {
   "name": "makeen-repo",
-  "engines": {
-    "node": "6.x.x"
-  },
   "description": "",
   "main": "index.js",
   "scripts": {
