@@ -23,6 +23,6 @@
   "homepage": "https://github.com/makeen-project/makeen/tree/master/packages/makeen/readme.md",
   "dependencies": {
     "invariant": "2.2.2",
-    "lodash": "4.17.4"
+    "lodash": "4.17.12"
   }
 }
