@@ -26,7 +26,7 @@
     "makeen-mongodb": "^1.5.0",
     "makeen-router": "^1.6.7",
     "moment": "2.18.1",
-    "mongodb": "2.2.27",
+    "mongodb": "3.1.13",
     "octobus.js": "1.1.2",
     "passport": "0.3.2",
     "passport-jwt": "^2.2.1",
