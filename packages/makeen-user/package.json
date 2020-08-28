@@ -21,7 +21,7 @@
     "express-jwt": "5.3.0",
     "joi": "10.5.1",
     "jsonwebtoken": "7.4.1",
-    "lodash": "4.17.4",
+    "lodash": "4.17.17",
     "makeen": "^1.4.5",
     "makeen-mongodb": "^1.5.0",
     "makeen-router": "^1.6.7",
