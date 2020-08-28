@@ -39,6 +39,13 @@ boom@4.2.0:
   dependencies:
     hoek "4.x.x"
 
+boom@5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/boom/-/boom-5.1.0.tgz#0308fa8e924cd6d42d9c3bf4883bdc98f0e71df8"
+  integrity sha1-Awj6jpJM1tQtnDv0iDvcmPDnHfg=
+  dependencies:
+    hoek "4.x.x"
+
 bson@^1.0.1, bson@~1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/bson/-/bson-1.0.4.tgz#93c10d39eaa5b58415cbc4052f3e53e562b0b72c"
@@ -234,6 +241,16 @@ joi@10.2.2:
     items "2.x.x"
     topo "2.x.x"
 
+joi@10.5.1:
+  version "10.5.1"
+  resolved "https://registry.yarnpkg.com/joi/-/joi-10.5.1.tgz#22c608d106c1f7fe18c6f1bf38a228fdf2daab7f"
+  integrity sha1-IsYI0QbB9/4YxvG/OKIo/fLaq38=
+  dependencies:
+    hoek "4.x.x"
+    isemail "2.x.x"
+    items "2.x.x"
+    topo "2.x.x"
+
 joi@^8.0.5:
   version "8.4.2"
   resolved "https://registry.yarnpkg.com/joi/-/joi-8.4.2.tgz#bd7774658fe99058d8994ed1d4b9962484ebb859"
@@ -255,9 +272,26 @@ lodash.transform@^4.6.0:
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/lodash.transform/-/lodash.transform-4.6.0.tgz#12306422f63324aed8483d3f38332b5f670547a0"
 
-lodash@^4.11.1, lodash@^4.14.0:
+lodash@4.17.4, lodash@^4.11.1, lodash@^4.14.0:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+  integrity sha1-eCA6TRwyiuHYbcpkYONptX9AVa4=
+
+lodash@^4.17.17:
+  version "4.17.20"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
+  integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
+
+makeen@^1.4.5:
+  version "1.4.5"
+  resolved "https://registry.yarnpkg.com/makeen/-/makeen-1.4.5.tgz#eb5b35dcd492a3b2d7da8668f32a077d5a942fc2"
+  integrity sha512-cBig5904eCkPYNgGem8R7njOhWmkXW1rYJP+UQCOnkbRTYhfAbgl9TvF21zC0aBeEpGPlh9+ketr8Grjchwijw==
+  dependencies:
+    boom "5.1.0"
+    express "4.15.3"
+    joi "10.5.1"
+    lodash "4.17.4"
+    merge-descriptors "1.0.1"
 
 map-stream@~0.1.0:
   version "0.1.0"
