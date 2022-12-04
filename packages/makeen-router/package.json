@@ -16,7 +16,7 @@
   "dependencies": {
     "boom": "4.2.0",
     "celebrate": "4.0.1",
-    "express": "4.15.3",
+    "express": "4.17.3",
     "joi": "10.2.2",
     "lodash": "^4.11.1",
     "makeen": "^1.4.5",
