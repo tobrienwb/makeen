@@ -29,7 +29,7 @@
     "mongodb": "2.2.27",
     "octobus.js": "1.1.2",
     "passport": "0.3.2",
-    "passport-jwt": "^2.2.1",
+    "passport-jwt": "^4.0.1",
     "passport-local": "1.0.0",
     "prop-types": "^15.5.10",
     "react": "15.5.4"
