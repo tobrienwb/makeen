@@ -3,7 +3,10 @@
   "version": "1.2.1",
   "description": "Makeen command line utilities.",
   "main": "build/index.js",
-  "scripts": {},
+  "scripts": {
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
+  },
   "bin": {
     "makeen-build": "./build/scripts/build.js",
     "makeen-watch": "./build/scripts/watch.js"
@@ -26,6 +29,8 @@
     "glob": "7.1.1",
     "joi": "10.0.2",
     "lodash": "4.17.2",
-    "yargs": "7.0.2"
-  }
+    "yargs": "7.0.2",
+    "@snyk/protect": "latest"
+  },
+  "snyk": true
 }
