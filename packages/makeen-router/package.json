@@ -14,14 +14,14 @@
   },
   "homepage": "https://github.com/makeen-project/makeen#readme",
   "dependencies": {
-    "boom": "4.2.0",
+    "boom": "7.3.0",
     "celebrate": "4.0.1",
     "express": "4.15.3",
     "joi": "10.2.2",
     "lodash": "^4.11.1",
     "makeen": "^1.4.5",
     "mongodb": "2.2.24",
-    "mongodb-extended-json": "1.9.0",
+    "mongodb-extended-json": "1.11.1",
     "octobus.js": "1.1.2"
   }
 }
