@@ -18,7 +18,7 @@
     "boom": "5.1.0",
     "express": "4.15.3",
     "joi": "10.5.1",
-    "lodash": "4.17.4",
+    "lodash": "4.17.17",
     "makeen": "^1.4.5",
     "makeen-mongodb": "^1.5.0",
     "mongodb": "2.2.27",
