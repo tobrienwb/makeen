@@ -15,7 +15,7 @@
   "homepage": "https://github.com/makeen-project/makeen#readme",
   "dependencies": {
     "axios": "0.16.2",
-    "express": "4.15.3",
+    "express": "4.21.1",
     "joi": "10.6.0",
     "lodash": "4.17.4",
     "makeen": "^1.4.5",
