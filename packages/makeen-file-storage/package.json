@@ -15,7 +15,7 @@
   "homepage": "https://github.com/makeen-project/makeen#readme",
   "dependencies": {
     "boom": "5.1.0",
-    "express": "4.15.3",
+    "express": "4.21.1",
     "fs-extra": "^3.0.1",
     "joi": "10.5.1",
     "makeen": "^1.4.5",
